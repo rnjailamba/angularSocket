@@ -1,0 +1,16 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "express": "~4.13.1",
+    "express-session": "^1.12.1",
+    "express-unless": "^0.3.0",
+    "fs": "0.0.2",
+    "jquery": "^2.1.4",
+    "socket.io": "^1.4.5"
+  }
+}
